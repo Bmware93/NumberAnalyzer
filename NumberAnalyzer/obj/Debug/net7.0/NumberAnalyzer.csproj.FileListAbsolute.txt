@@ -1,0 +1,15 @@
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/net7.0/NumberAnalyzer
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/net7.0/NumberAnalyzer.deps.json
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/net7.0/NumberAnalyzer.runtimeconfig.json
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/net7.0/NumberAnalyzer.dll
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/net7.0/NumberAnalyzer.pdb
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net7.0/NumberAnalyzer.csproj.AssemblyReference.cache
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net7.0/NumberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net7.0/NumberAnalyzer.AssemblyInfoInputs.cache
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net7.0/NumberAnalyzer.AssemblyInfo.cs
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net7.0/NumberAnalyzer.csproj.CoreCompileInputs.cache
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net7.0/NumberAnalyzer.dll
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net7.0/refint/NumberAnalyzer.dll
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net7.0/NumberAnalyzer.pdb
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net7.0/NumberAnalyzer.genruntimeconfig.cache
+/Users/beniamorgan-ware/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net7.0/ref/NumberAnalyzer.dll
