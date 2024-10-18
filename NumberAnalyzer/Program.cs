@@ -14,7 +14,7 @@ class Program
         Console.WriteLine("Hello, welcome to the number analyzer game!");
         Console.WriteLine("Please enter your name: ");
         string userName = Console.ReadLine();
-        bool userWantsToReplay = false;
+        bool userWantsToPlayAgain = false;
 
         do
         {
@@ -60,18 +60,20 @@ class Program
                     Console.WriteLine("Odd and greater than 60");
                 }
             }
-            Console.WriteLine($"Would you like to play again {userName}?");
+            Console.WriteLine($"Would you like to play again {userName}? (y/n)");
             userResponse = Console.ReadLine();
+            string userResponseLowered = userResponse.ToLower();
 
-            if(userResponse.Contains('y'))
+            if(userResponseLowered.Contains('y'))
             {
-                userWantsToReplay = true;
-            } else
+                userWantsToPlayAgain = true;
+            }
+            else
             {
-                userWantsToReplay = false;
+                userWantsToPlayAgain = false;
             }
 
-        } while (userWantsToReplay == true);
+        } while (userWantsToPlayAgain == true);
         
 
     }
